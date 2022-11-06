@@ -19,3 +19,6 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Implementação
+Foi implementado o código que faltava para o correto funcionamento. Agora o progama avisa caso tenha mais hóspedes do que a capacidade da Suite suporta, retorna a quantidade de hóspedes e o valor da diária aplicando um desconto de 10% caso o hóspede tenha ficado dez dias ou mais na suíte.
